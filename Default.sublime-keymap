@@ -1,0 +1,4 @@
+[
+	{ "keys": ["super+k", "ctrl+u"], "command": "transmit_docksend_compiled_style" },
+    { "keys": ["super+k", "super+ctrl+u"], "command": "transmit_docksend_compiled_style_file" }
+]

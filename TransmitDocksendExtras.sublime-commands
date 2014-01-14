@@ -1,0 +1,4 @@
+[
+    { "caption": "Transmit DockSend Compiled Style", "command": "transmit_docksend_compiled_style" },
+    { "caption": "Transmit DockSend Compiled Style File", "command": "transmit_docksend_compiled_style_file"} }
+]
