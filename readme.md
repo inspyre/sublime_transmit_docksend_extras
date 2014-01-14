@@ -11,7 +11,7 @@ Transmit Docksend Extras builds on Transmit Docksend by adding new commands for 
 
 Clone this repository into a "Transmit Docksend Extras" folder in the ST2 Packages directory.
 
-	git clone git://github.com/inspyre/sublime_transmit_docksend_extras.git ~/Library/Application\ Support/Sublime\ Text\ 2/Packages/Transmit\ Docksend\ Extras
+	git clone git://github.com/inspyre/sublime_transmit_docksend_extras.git ~/Library/Application\ Support/Sublime\ Text\ 3/Packages/Transmit\ Docksend\ Extras
 
 ## Usage
 
